@@ -1,0 +1,7 @@
+c:\users\americaj\documents\visual studio 2013\Projects\HelpNoteWorker\HelpNoteWorker\bin\Debug\HelpNoteWorker.exe.config
+c:\users\americaj\documents\visual studio 2013\Projects\HelpNoteWorker\HelpNoteWorker\bin\Debug\HelpNoteWorker.exe
+c:\users\americaj\documents\visual studio 2013\Projects\HelpNoteWorker\HelpNoteWorker\bin\Debug\HelpNoteWorker.pdb
+c:\users\americaj\documents\visual studio 2013\Projects\HelpNoteWorker\HelpNoteWorker\obj\Debug\HelpNoteWorker.csproj.ResolveComReference.cache
+c:\users\americaj\documents\visual studio 2013\Projects\HelpNoteWorker\HelpNoteWorker\obj\Debug\HelpNoteWorker.exe
+c:\users\americaj\documents\visual studio 2013\Projects\HelpNoteWorker\HelpNoteWorker\obj\Debug\HelpNoteWorker.pdb
+C:\Users\americaj\documents\visual studio 2013\Projects\HelpNoteWorker\HelpNoteWorker\obj\Debug\HelpNoteWorker.csprojResolveAssemblyReference.cache
